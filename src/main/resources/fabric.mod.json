@@ -1,15 +1,15 @@
 {
 	"schemaVersion": 1,
 	"id": "resurgence-core",
-	"version": "${version}",
+	"version": "1.0.0",
 	"name": "Resurgence Core",
-	"description": "Core Library for Slimes Resurgence",
+	"description": "Custom Content for the Slimes Resurgence Modpack(s)",
 	"authors": [
 		"EldarGods"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://www.curseforge.com/members/eldargods/projects",
+		"sources": "https://github.com/EldarGods/ResurgenceCore"
 	},
 	"license": "MIT",
 	"icon": "assets/resurgence-core/icon.png",

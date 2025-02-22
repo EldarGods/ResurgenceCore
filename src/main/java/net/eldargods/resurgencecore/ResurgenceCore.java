@@ -1,5 +1,8 @@
 package net.eldargods.resurgencecore;
 
+import net.eldargods.resurgencecore.block.ModBlocks;
+import net.eldargods.resurgencecore.item.ModItemGroups;
+import net.eldargods.resurgencecore.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -11,6 +14,9 @@ public class ResurgenceCore implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItemGroups.registerItemGroups();
 
+		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

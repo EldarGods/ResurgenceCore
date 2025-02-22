@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "resurgence-core:block/anima_block"
+    }
+  }
+}

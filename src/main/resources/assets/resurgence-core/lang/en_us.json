@@ -1,0 +1,10 @@
+{
+  "item.resurgence-core.aether_shard": "Aether Shard",
+  "item.resurgence-core.aether_heart": "Heart of Aether",
+  "item.resurgence-core.anima_ingot": "Anima Ingot",
+  "item.resurgence-core.raw_anima": "Raw Anima",
+
+  "block.resurgence-core.anima_block": "Block of Anima",
+  "block.resurgence-core.raw_anima_block": "Block of Raw Anima",
+  "itemgroup.resurgence-core.resurgence_items": "Resurgence Core"
+}
