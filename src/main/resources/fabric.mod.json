@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "resurgence-core",
+	"version": "${version}",
+	"name": "Resurgence Core",
+	"description": "Core Library for Slimes Resurgence",
+	"authors": [
+		"EldarGods"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/resurgence-core/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.eldargods.resurgencecore.ResurgenceCore"
+		],
+		"fabric-datagen": [
+			"net.eldargods.resurgencecore.ResurgenceCoreDataGenerator"
+		],
+		"client": [
+			"net.eldargods.resurgencecore.ResurgenceCoreClient"
+		]
+	},
+	"mixins": [
+		"resurgence-core.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
