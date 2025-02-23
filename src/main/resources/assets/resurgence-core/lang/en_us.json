@@ -1,10 +1,19 @@
 {
   "item.resurgence-core.aether_shard": "Aether Shard",
-  "item.resurgence-core.aether_heart": "Heart of Aether",
+  "item.resurgence-core.heart_of_aether": "Heart of Aether",
   "item.resurgence-core.anima_ingot": "Anima Ingot",
   "item.resurgence-core.raw_anima": "Raw Anima",
 
   "block.resurgence-core.anima_block": "Block of Anima",
   "block.resurgence-core.raw_anima_block": "Block of Raw Anima",
-  "itemgroup.resurgence-core.resurgence_items": "Resurgence Core"
+  "block.resurgence-core.anima_ore": "Anima Ore",
+  "block.resurgence-core.deepslate_anima_ore": "Deepslate Anima Ore",
+  "itemgroup.resurgence-core.resurgence_items": "Resurgence Core",
+
+  "tooltip.resurgence-core.heartofaether.shift_down1": "§dNow that the Heart is fully restored, you may",
+  "tooltip.resurgence-core.heartofaether.shift_down2": "§duse it to craft powerful weapons and artifacts.",
+  "tooltip.resurgence-core.heartofaether.line1": "§b§oHumming with power",
+  "tooltip.resurgence-core.heartofaether.line2": "§8This item is permanently Soulbound§r",
+  "tooltip.resurgence-core.heartofaether.line3": "Press §aShift§r for more information.",
+  "tooltip.resurgence-core.heartofaether.line4": " "
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "resurgence-core:item/aether_heart"
+    "layer0": "resurgence-core:item/heart_of_aether"
   }
 }

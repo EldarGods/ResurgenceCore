@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "resurgence-core:raw_anima_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "resurgence-core:raw_anima"
+  }
+}
+

@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "resurgence-core:raw_anima"
+    },
+    "title": "Opening The Rift",
+    "description": "Complete Act 2 of the campaign",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "resurgence-core:act_one_complete",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  }
+}

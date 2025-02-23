@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "resurgence-core:raw_anima"
+    },
+    "title": "We've Only Just Begun",
+    "description": "Complete Act 1 of the campaign",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "resurgence-core:velmoria_welcome",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  }
+}

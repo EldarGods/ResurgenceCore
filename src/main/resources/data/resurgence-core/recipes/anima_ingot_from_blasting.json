@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "resurgence-core:raw_anima"
+  },
+  "result": "resurgence-core:anima_ingot",
+    "cookingtime": 100,
+    "experience": 0.2
+}

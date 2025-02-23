@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "resurgence-core:anima_block",
+    "resurgence-core:raw_anima_block",
+    "resurgence-core:anima_ore",
+    "resurgence-core:deepslate_anima_ore"
+  ]
+}
